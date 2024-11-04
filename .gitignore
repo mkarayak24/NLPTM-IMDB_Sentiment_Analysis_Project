@@ -1,2 +1,4 @@
 
 *.csv
+X_distilbert.npy
+X_roberta.npy
